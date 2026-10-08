@@ -1,5 +1,7 @@
 # md-toc
 
+[![CI](https://github.com/lzayou/md-toc/actions/workflows/ci.yml/badge.svg)](https://github.com/lzayou/md-toc/actions/workflows/ci.yml)
+
 零依赖的 Markdown 目录（TOC）生成器。
 
 `md-toc` 从 Markdown 文档中提取标题，生成与 GitHub 章节链接一致的目录，全程只使用 Python 标准库。
